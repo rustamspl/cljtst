@@ -1,1 +1,1 @@
-@java -cp bin/clojure-1.8.0.jar clojure.main %*
+@java -cp .;clojure-1.8.0.jar clojure.main %*
